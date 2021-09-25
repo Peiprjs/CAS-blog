@@ -91,7 +91,9 @@ window.onload = function() {
 								 itemtype="https://schema.org/SiteNavigationElement" itemscope role="navigation"
 								 aria-label="Mobile Header Menu">
 								<ul id="nanospace_mobile_menu" class="menu nav-menu nanospace-hover-menu"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://cas.peiphy.xyz" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Inicio</span></a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://192.168.1.111/index.php/quien-soy/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Yo, Pol</span></a></li>
 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://192.168.1.111/index.php/blog/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Experiencias</span></a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://192.168.1.111/index.php/proyecto/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Proyecto</span></a></li>
 </ul>							</nav>
 																</div>
 								</div>
@@ -139,7 +141,9 @@ window.onload = function() {
 								 itemtype="https://schema.org/SiteNavigationElement" itemscope role="navigation"
 								 aria-label="Header Menu 1">
 								<ul id="menu-menu-principal" class="menu nav-menu nanospace-hover-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://cas.peiphy.xyz" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Inicio</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://192.168.1.111/index.php/quien-soy/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Yo, Pol</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://192.168.1.111/index.php/blog/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Experiencias</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://192.168.1.111/index.php/proyecto/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Proyecto</span></a></li>
 </ul>							</nav>
 							</div>
 													</div>
