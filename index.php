@@ -2,7 +2,7 @@
 <html class="no-js" lang="es">
 
 	<head>
-		<title>CAS &#8211; Pol Roca &#8211; Mi blog para el módulo CAS</title>
+		<title>Pol Roca &#8211; Creatividad, Actividad y Servicio</title>
 <meta name='robots' content='max-image-preview:large' />
 
 	<meta charset="UTF-8">
@@ -12,8 +12,8 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link href='http://fonts.gstatic.com' crossorigin rel='preconnect' />
-<link rel="alternate" type="application/rss+xml" title="CAS - Pol Roca &raquo; Feed" href="http://192.168.1.111/index.php/feed/" />
-<link rel="alternate" type="application/rss+xml" title="CAS - Pol Roca &raquo; Feed de los comentarios" href="http://192.168.1.111/index.php/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed" href="http://192.168.1.111/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed de los comentarios" href="http://192.168.1.111/index.php/comments/feed/" />
 <style id="nanospace-text-widget-icon-fallback">.widget-symbol::before { content: "?"; font-family: inherit; }</style><link rel='stylesheet' id='wp-block-library-css'  href='http://192.168.1.111/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
 <link rel='stylesheet' id='nanospace_main-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/css/header-main.css?ver=1.2.1' type='text/css' media='all' />
 <link rel='stylesheet' id='nanospace-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Fira+Sans%3A100%2C300%2C400%2C700%2C900&#038;subset=latin&#038;ver=1.2.1' type='text/css' media='screen' />
@@ -127,7 +127,7 @@ window.onload = function() {
 																	<div class="nanospace-header-main-bar-left nanospace-header-column nanospace-flex-align-left">					<div class="nanospace-header-logo site-branding menu">
 						<div class="site-title menu-item h1">
 						<a href="http://192.168.1.111/" rel="home" class="nanospace-menu-item-link">
-						<span class="nanospace-default-logo nanospace-logo">CAS &#8211; Pol Roca</span>
+						<span class="nanospace-default-logo nanospace-logo">Pol Roca</span>
 						</a>
 						</div>
 						</div>
@@ -161,7 +161,7 @@ window.onload = function() {
 							<div class="site-title menu-item h1">
 								<a href="http://192.168.1.111/"
 								   rel="home" class="nanospace-menu-item-link">
-									<span class="nanospace-default-logo nanospace-logo">CAS &#8211; Pol Roca</span>
+									<span class="nanospace-default-logo nanospace-logo">Pol Roca</span>
 								</a>
 							</div>
 						</div>
@@ -189,7 +189,7 @@ window.onload = function() {
 
 	<div class="intro-special">
 <div id="intro-media" class="intro-media">
-	<div id="wp-custom-header" class="wp-custom-header"><img src="http://192.168.1.111/wp-content/themes/nanospace/assets/images/header/header.png" width="1920" height="1080" alt="CAS - Pol Roca" /></div></div>
+	<div id="wp-custom-header" class="wp-custom-header"><img src="http://192.168.1.111/wp-content/themes/nanospace/assets/images/header/header.png" width="1920" height="1080" alt="Pol Roca" /></div></div>
 
 	<div id="intro" class="intro">
 		<div class="intro-inner">
