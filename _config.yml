@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cas.peiphy.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: peipr1
 github_username:  peiprjs
-show_excerpts: true
+show_excerpts: false
 permalink: /:title/
 # Build settings
 markdown: kramdown
