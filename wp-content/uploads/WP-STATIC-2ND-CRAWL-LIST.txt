@@ -1,0 +1,10 @@
+/wp-content/themes/nanospace/library/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js
+/wp-content/themes/twentytwentyone/assets/css/print.css
+/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js
+/wp-content/themes/twentytwentyone/style.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-includes/js/imagesloaded.min.js
+/wp-includes/js/jquery/jquery-migrate.min.js
+/wp-includes/js/jquery/jquery.masonry.min.js
+/wp-includes/js/jquery/jquery.min.js
+/wp-includes/js/masonry.min.js
