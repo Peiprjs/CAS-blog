@@ -8,13 +8,16 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<meta name="theme-color" content="#ffffff"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<meta name="theme-color" content="#ffffff"><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link href='http://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed" href="http://192.168.1.111/index.php/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed de los comentarios" href="http://192.168.1.111/index.php/comments/feed/" />
 <style id="nanospace-text-widget-icon-fallback">.widget-symbol::before { content: "?"; font-family: inherit; }</style><link rel='stylesheet' id='wp-block-library-css'  href='http://192.168.1.111/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dobsondev-shortcodes-css-css'  href='http://192.168.1.111/wp-content/plugins/dobsondev-shortcodes/css/dobsondev-shortcodes.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dobsondev-shortcodes-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=5.8.1' type='text/css' media='all' />
 <link rel='stylesheet' id='nanospace_main-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/css/header-main.css?ver=1.2.1' type='text/css' media='all' />
 <link rel='stylesheet' id='nanospace-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Fira+Sans%3A100%2C300%2C400%2C700%2C900&#038;subset=latin&#038;ver=1.2.1' type='text/css' media='screen' />
 <link rel='stylesheet' id='genericons-neue-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/fonts/genericons-neue/genericons-neue.css?ver=1.2.1' type='text/css' media='screen' />
@@ -41,6 +44,7 @@ window.onload = function() {
 </script>
 <script type='text/javascript' src='http://192.168.1.111/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='http://192.168.1.111/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/plugins/dobsondev-shortcodes/js/dobsondev-shortcodes.min.js?ver=5.8.1' id='dobsondev-shortcodes-js-js'></script>
 <link rel="https://api.w.org/" href="http://192.168.1.111/index.php/wp-json/" /><link rel="alternate" type="application/json" href="http://192.168.1.111/index.php/wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://192.168.1.111/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.8.1" />
 <link rel="canonical" href="http://192.168.1.111/" />
@@ -215,7 +219,11 @@ window.onload = function() {
 	
 	<div class="entry-content">
 		<div class="entry-content-inner">
-<h2 class="alignwide has-text-align-wide has-gigantic-font-size" style="line-height:1.1">Soy un estudiante de Bachillerato Internacional del instituto Jaume Vicens Vives de Girona, promoción 2021-2023 (<a rel="noreferrer noopener" href="https://googology.wikia.org/wiki/Prefix_10%5E27" target="_blank">xentos</a>) y este es mi blog para la asignatura de Creatividad, Actividad y Servicio.</h2>
+<h3 class="alignwide has-text-align-wide has-gigantic-font-size" style="line-height:1.1">Soy un estudiante de Bachillerato Internacional del instituto Jaume Vicens Vives de Girona, promoción 2021-2023 (<a rel="noreferrer noopener" href="https://googology.wikia.org/wiki/Prefix_10%5E27" target="_blank">xentos</a>) y este es mi blog para la asignatura de Creatividad, Actividad y Servicio.</h3>
+
+
+
+<p>El código que permite que este blog funcione está disponible en la plataforma de código abierto Github, bajo el nombre <a href="http://github.com/peiprjs/CAS-blog">peiprjs/CAS-blog</a>. Con más de 5000 cambios en el código y ningún problema aparente, el código esta disponible para que qualquier usuario pueda colaborar y coger trozos de la página para sus proyectos.</p>
 
 
 
@@ -251,8 +259,13 @@ window.onload = function() {
 						<div class="nanospace-wrapper">
 							<div class="nanospace-footer-bottom-bar-row nanospace-footer-row">
 																	<div class="nanospace-footer-bottom-bar-left nanospace-footer-bottom-bar-column"></div>
-																	<div class="nanospace-footer-bottom-bar-center nanospace-footer-bottom-bar-column">						<div class="nanospace-footer-html-1 nanospace-bar-html-item">
-							<div><p><a rel="cc:attributionURL" href="http://cas.peiphy.xyz">El blog de CAS de Pol Roca </a>está registrado como <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+																	<div class="nanospace-footer-bottom-bar-center nanospace-footer-bottom-bar-column">						<div class="nanospace-footer-html-3 nanospace-bar-html-item">
+							<div></div>
+						</div>
+												<div class="nanospace-footer-html-1 nanospace-bar-html-item">
+							<div><img src="https://cdn.discordapp.com/attachments/855704728846860288/895691981370576926/code.png"> con <img src="https://media.discordapp.net/attachments/855704728846860288/895692500516368445/heart.png"> via <a href="https://github.com"> <img src="https://cdn.discordapp.com/attachments/855704728846860288/895692693768929301/GH.png"></a>
+
+<p><a rel="cc:attributionURL" href="http://cas.peiphy.xyz">El blog de CAS de Pol Roca </a>está registrado como <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
 <br>
 Funciona gracias a <a rel="Powered By" href="https://wordpress.org">Wordpress (diseño)</a>, <a rel="Theme By" href="https://www.github.com">GitHub (<i>host</i>)</a>,<br><a rel="Hosted by" href="https://labinator.com/wordpress-marketplace/themes/nanospace/">Labinator (tema)</a>, <a rel="Defended by" href="https://www.cloudflare.com">CloudFlare (<i>networking</i>)</a> y varios proveedores de plugins de WP y CF. </p>
 
