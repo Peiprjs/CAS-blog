@@ -1,8 +1,8 @@
 /
 /index.php/
-/index.php/blog/
-/index.php/proyecto/
-/index.php/quien-soy/
+/cas.peiphy.xyz/blog/
+/cas.peiphy.xyz/proyecto/
+/cas.peiphy.xyz/quien-soy/
 /wp-content/themes/nanospace/assets/css/beaver-builder-editor.css
 /wp-content/themes/nanospace/assets/css/custom-styles-editor.css
 /wp-content/themes/nanospace/assets/css/custom-styles-woocommerce.css

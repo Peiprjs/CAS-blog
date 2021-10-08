@@ -1,9 +1,9 @@
 /
 /favicon.ico
 /index.php/
-/index.php/blog/
-/index.php/proyecto/
-/index.php/quien-soy/
+/cas.peiphy.xyz/blog/
+/cas.peiphy.xyz/proyecto/
+/cas.peiphy.xyz/quien-soy/
 /páginas/page/1
 /robots.txt
 /sitemap.xml
