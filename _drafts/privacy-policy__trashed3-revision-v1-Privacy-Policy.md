@@ -9,7 +9,7 @@ permalink: /?p=47
 ---
 ## Who we are
 
-<strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://192.168.1.111.
+<strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://cas.peiphy.xyz.
 
 ## Comments
 
