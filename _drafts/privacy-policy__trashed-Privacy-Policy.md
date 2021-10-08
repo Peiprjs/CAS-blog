@@ -4,7 +4,7 @@ title: Privacy Policy
 date: 2021-09-16T22:15:45+02:00
 author: Pol Roca
 layout: page
-guid: http://192.168.1.111/?page_id=3
+guid: ?page_id=3
 ---
 ## Who we are
 

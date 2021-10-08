@@ -4,7 +4,7 @@ title: Sample Page
 date: 2021-09-16T22:15:45+02:00
 author: Pol Roca
 layout: page
-guid: http://192.168.1.111/?page_id=2
+guid: ?page_id=2
 ---
 This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -22,4 +22,4 @@ This is an example page. It&#8217;s different from a blog post because it will s
   </p>
 </blockquote>
 
-As a new WordPress user, you should go to [your dashboard](http://192.168.1.111/wp-admin/) to delete this page and create new pages for your content. Have fun!
+As a new WordPress user, you should go to [your dashboard](wp-admin/) to delete this page and create new pages for your content. Have fun!

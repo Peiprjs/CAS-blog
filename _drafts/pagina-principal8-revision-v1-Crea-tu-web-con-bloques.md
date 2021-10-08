@@ -4,7 +4,7 @@ title: Crea tu web con bloques
 date: 2021-09-25T11:38:36+02:00
 author: Pol Roca
 layout: revision
-guid: http://192.168.1.111/?p=13
+guid: ?p=13
 permalink: /?p=13
 ---
 <h2 class="alignwide has-text-align-wide has-gigantic-font-size" style="line-height:1.1">
@@ -16,19 +16,19 @@ permalink: /?p=13
 
 <div class="wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap">
   <div class="wp-block-column is-vertically-aligned-center">
-    <figure class="wp-block-image alignfull size-large"><img src="http://192.168.1.111/wp-content/themes/twentytwentyone/assets/images/roses-tremieres-hollyhocks-1884.jpg" alt="«Malvarrosas», de Berthe Morisot" /></figure> 
+    <figure class="wp-block-image alignfull size-large"><img src="wp-content/themes/twentytwentyone/assets/images/roses-tremieres-hollyhocks-1884.jpg" alt="«Malvarrosas», de Berthe Morisot" /></figure> 
     
     <div style="height:100px" aria-hidden="true" class="wp-block-spacer">
     </div><figure class="wp-block-image alignfull size-large is-style-twentytwentyone-image-frame">
     
-    <img src="http://192.168.1.111/wp-content/themes/twentytwentyone/assets/images/in-the-bois-de-boulogne.jpg" alt="«En el bosque de Boulogne», de Berthe Morisot" /></figure>
+    <img src="wp-content/themes/twentytwentyone/assets/images/in-the-bois-de-boulogne.jpg" alt="«En el bosque de Boulogne», de Berthe Morisot" /></figure>
   </div>
   
   <div class="wp-block-column is-vertically-aligned-center">
     <div style="height:100px" aria-hidden="true" class="wp-block-spacer">
     </div><figure class="wp-block-image size-large alignfull size-full is-style-twentytwentyone-border">
     
-    <img src="http://192.168.1.111/wp-content/themes/twentytwentyone/assets/images/young-woman-in-mauve.jpg" alt="«Mujer joven en malva», de Berthe Morisot" /></figure>
+    <img src="wp-content/themes/twentytwentyone/assets/images/young-woman-in-mauve.jpg" alt="«Mujer joven en malva», de Berthe Morisot" /></figure>
   </div>
 </div>
 

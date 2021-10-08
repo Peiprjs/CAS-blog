@@ -4,7 +4,7 @@ title: Bienvenido al blog de CAS de Pol Roca
 date: 2021-10-05T18:33:10+02:00
 author: Pol Roca
 layout: revision
-guid: http://192.168.1.111/?p=66
+guid: ?p=66
 permalink: /?p=66
 no_intro:
   - "0"

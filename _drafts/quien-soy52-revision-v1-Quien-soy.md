@@ -4,7 +4,7 @@ title: Quién soy
 date: 2021-10-05T18:46:03+02:00
 author: Pol Roca
 layout: revision
-guid: http://192.168.1.111/?p=70
+guid: ?p=70
 permalink: /?p=70
 no_intro:
   - "0"
