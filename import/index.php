@@ -8,45 +8,49 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<meta name="theme-color" content="#ffffff"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<meta name="theme-color" content="#ffffff"><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link href='http://fonts.gstatic.com' crossorigin rel='preconnect' />
-<link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed" href="index.php/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed de los comentarios" href="index.php/comments/feed/" />
-<style id="nanospace-text-widget-icon-fallback">.widget-symbol::before { content: "?"; font-family: inherit; }</style><link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
-<link rel='stylesheet' id='nanospace_main-css'  href='wp-content/themes/nanospace/assets/css/header-main.css?ver=1.2.1' type='text/css' media='all' />
+<link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed" href="http://192.168.1.111/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pol Roca &raquo; Feed de los comentarios" href="http://192.168.1.111/index.php/comments/feed/" />
+<style id="nanospace-text-widget-icon-fallback">.widget-symbol::before { content: "?"; font-family: inherit; }</style><link rel='stylesheet' id='wp-block-library-css'  href='http://192.168.1.111/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dobsondev-shortcodes-css-css'  href='http://192.168.1.111/wp-content/plugins/dobsondev-shortcodes/css/dobsondev-shortcodes.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dobsondev-shortcodes-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nanospace_main-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/css/header-main.css?ver=1.2.1' type='text/css' media='all' />
 <link rel='stylesheet' id='nanospace-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Fira+Sans%3A100%2C300%2C400%2C700%2C900&#038;subset=latin&#038;ver=1.2.1' type='text/css' media='screen' />
-<link rel='stylesheet' id='genericons-neue-css'  href='wp-content/themes/nanospace/assets/fonts/genericons-neue/genericons-neue.css?ver=1.2.1' type='text/css' media='screen' />
-<link rel='stylesheet' id='nanospace-stylesheet-main-css'  href='wp-content/themes/nanospace/assets/css/main.css?ver=1.2.1' type='text/css' media='screen' />
-<link rel='stylesheet' id='nanospace-stylesheet-shortcodes-css'  href='wp-content/themes/nanospace/assets/css/shortcodes.css?ver=1.2.1' type='text/css' media='screen' />
-<link rel='stylesheet' id='nanospace-stylesheet-custom-css'  href='wp-content/themes/nanospace/assets/css/custom-styles.css?ver=1.2.1' type='text/css' media='screen' />
-<link rel='stylesheet' id='nanospace-stylesheet-print-css'  href='wp-content/themes/nanospace/assets/css/print.css?ver=1.2.1' type='text/css' media='print' />
+<link rel='stylesheet' id='genericons-neue-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/fonts/genericons-neue/genericons-neue.css?ver=1.2.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='nanospace-stylesheet-main-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/css/main.css?ver=1.2.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='nanospace-stylesheet-shortcodes-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/css/shortcodes.css?ver=1.2.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='nanospace-stylesheet-custom-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/css/custom-styles.css?ver=1.2.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='nanospace-stylesheet-print-css'  href='http://192.168.1.111/wp-content/themes/nanospace/assets/css/print.css?ver=1.2.1' type='text/css' media='print' />
 <style id='nanospace-inline-css' type='text/css'>
 /* START CSS variables */
-:root {
+:root { 
 --footer_image_repeat: no-repeat;
 }
 /* END CSS variables */
-.intro-special { background-image: url('wp-content/themes/nanospace/assets/images/header/header.png'); }
+.intro-special { background-image: url('http://192.168.1.111/wp-content/themes/nanospace/assets/images/header/header.png'); }
 </style>
-<script type='text/javascript' src='wp-content/themes/nanospace/library/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js?ver=1.16.1' id='css-vars-ponyfill-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/themes/nanospace/library/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js?ver=1.16.1' id='css-vars-ponyfill-js'></script>
 <script type='text/javascript' id='css-vars-ponyfill-js-after'>
 window.onload = function() {
 	cssVars( {
 		onlyVars: true,
-		exclude: 'link:not([href^="wp-content/themes"])'
+		exclude: 'link:not([href^="http://192.168.1.111/wp-content/themes"])'
 	} );
 };
 </script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="index.php/wp-json/" /><link rel="alternate" type="application/json" href="index.php/wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<script type='text/javascript' src='http://192.168.1.111/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/plugins/dobsondev-shortcodes/js/dobsondev-shortcodes.min.js?ver=5.8.1' id='dobsondev-shortcodes-js-js'></script>
+<link rel="https://api.w.org/" href="http://192.168.1.111/index.php/wp-json/" /><link rel="alternate" type="application/json" href="http://192.168.1.111/index.php/wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://192.168.1.111/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.8.1" />
-<link rel="canonical" href="" />
-<link rel='shortlink' href='' />
-<link rel="alternate" type="application/json+oembed" href="index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcas.peiphy.xyz%2F" />
-<link rel="alternate" type="text/xml+oembed" href="index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcas.peiphy.xyz%2F&#038;format=xml" />
+<link rel="canonical" href="http://192.168.1.111/" />
+<link rel='shortlink' href='http://192.168.1.111/' />
+<link rel="alternate" type="application/json+oembed" href="http://192.168.1.111/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2F192.168.1.111%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://192.168.1.111/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2F192.168.1.111%2F&#038;format=xml" />
 
 		<!-- GA Google Analytics @ https://m0n.co/ga -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-LPPXXG1LNX"></script>
@@ -80,7 +84,7 @@ window.onload = function() {
 								<div class="nanospace-header-section-vertical-column">
 									<div class="nanospace-header-mobile-vertical-bar-top nanospace-header-section-vertical-row nanospace-flex-align-left">
 																<div class="nanospace-header-search-bar nanospace-header-search">
-							<form role="search" method="get" class="search-form" action="">
+							<form role="search" method="get" class="search-form" action="http://192.168.1.111/">
 				<label>
 					<span class="screen-reader-text">Buscar:</span>
 					<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="s" />
@@ -91,9 +95,9 @@ window.onload = function() {
 								 itemtype="https://schema.org/SiteNavigationElement" itemscope role="navigation"
 								 aria-label="Mobile Header Menu">
 								<ul id="nanospace_mobile_menu" class="menu nav-menu nanospace-hover-menu"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://cas.peiphy.xyz" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Inicio</span></a></li>
-<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="cas.peiphy.xyz/quien-soy/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Yo, Pol</span></a></li>
-<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="cas.peiphy.xyz/blog/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Experiencias</span></a></li>
-<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="cas.peiphy.xyz/proyecto/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Proyecto</span></a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://192.168.1.111/index.php/quien-soy/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Yo, Pol</span></a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://192.168.1.111/index.php/blog/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Experiencias</span></a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://192.168.1.111/index.php/proyecto/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Proyecto</span></a></li>
 </ul>							</nav>
 																</div>
 								</div>
@@ -122,11 +126,11 @@ window.onload = function() {
 					<div class="nanospace-header-main-bar-inner nanospace-section-inner">
 						<div class="nanospace-wrapper">
 
-
+							
 							<div class="nanospace-header-main-bar-row nanospace-header-row">
 																	<div class="nanospace-header-main-bar-left nanospace-header-column nanospace-flex-align-left">					<div class="nanospace-header-logo site-branding menu">
 						<div class="site-title menu-item h1">
-						<a href="" rel="home" class="nanospace-menu-item-link">
+						<a href="http://192.168.1.111/" rel="home" class="nanospace-menu-item-link">
 						<span class="nanospace-default-logo nanospace-logo">Pol Roca</span>
 						</a>
 						</div>
@@ -141,14 +145,14 @@ window.onload = function() {
 								 itemtype="https://schema.org/SiteNavigationElement" itemscope role="navigation"
 								 aria-label="Header Menu 1">
 								<ul id="menu-menu-principal" class="menu nav-menu nanospace-hover-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://cas.peiphy.xyz" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Inicio</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="cas.peiphy.xyz/quien-soy/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Yo, Pol</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="cas.peiphy.xyz/blog/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Experiencias</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="cas.peiphy.xyz/proyecto/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Proyecto</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://192.168.1.111/index.php/quien-soy/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Yo, Pol</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://192.168.1.111/index.php/blog/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Experiencias</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://192.168.1.111/index.php/proyecto/" class="nanospace-menu-item-link "><span class="nanospace-menu-item-title">Proyecto</span></a></li>
 </ul>							</nav>
 							</div>
 													</div>
 
-
+					
 				</div>
 			</div>
 		</div>
@@ -162,7 +166,7 @@ window.onload = function() {
 								<div class="nanospace-header-mobile-main-bar-row nanospace-header-row">
 																			<div class="nanospace-header-mobile-main-bar-left nanospace-header-column nanospace-flex-align-left">						<div class="nanospace-header-mobile-logo site-branding menu">
 							<div class="site-title menu-item h1">
-								<a href=""
+								<a href="http://192.168.1.111/"
 								   rel="home" class="nanospace-menu-item-link">
 									<span class="nanospace-default-logo nanospace-logo">Pol Roca</span>
 								</a>
@@ -181,7 +185,7 @@ window.onload = function() {
 				</div>
 			</div>
 		</div>
-
+		
 
 </header>
 
@@ -192,7 +196,7 @@ window.onload = function() {
 
 	<div class="intro-special">
 <div id="intro-media" class="intro-media">
-	<div id="wp-custom-header" class="wp-custom-header"><img src="wp-content/themes/nanospace/assets/images/header/header.png" width="1920" height="1080" alt="Pol Roca" /></div></div>
+	<div id="wp-custom-header" class="wp-custom-header"><img src="http://192.168.1.111/wp-content/themes/nanospace/assets/images/header/header.png" width="1920" height="1080" alt="Pol Roca" /></div></div>
 
 	<div id="intro" class="intro">
 		<div class="intro-inner">
@@ -212,10 +216,14 @@ window.onload = function() {
 
 <article id="post-8" class="post-8 page type-page status-publish hentry entry">
 
-
+	
 	<div class="entry-content">
 		<div class="entry-content-inner">
-<h2 class="alignwide has-text-align-wide has-gigantic-font-size" style="line-height:1.1">Soy un estudiante de Bachillerato Internacional del instituto Jaume Vicens Vives de Girona, promoción 2021-2023 (<a rel="noreferrer noopener" href="https://googology.wikia.org/wiki/Prefix_10%5E27" target="_blank">xentos</a>) y este es mi blog para la asignatura de Creatividad, Actividad y Servicio.</h2>
+<h3 class="alignwide has-text-align-wide has-gigantic-font-size" style="line-height:1.1">Soy un estudiante de Bachillerato Internacional del instituto Jaume Vicens Vives de Girona, promoción 2021-2023 (<a rel="noreferrer noopener" href="https://googology.wikia.org/wiki/Prefix_10%5E27" target="_blank">xentos</a>) y este es mi blog para la asignatura de Creatividad, Actividad y Servicio.</h3>
+
+
+
+<p>El código que permite que este blog funcione está disponible en la plataforma de código abierto Github, bajo el nombre <a href="http://github.com/peiprjs/CAS-blog">peiprjs/CAS-blog</a>. Con más de 5000 cambios en el código y ningún problema aparente, el código esta disponible para que qualquier usuario pueda colaborar y coger trozos de la página para sus proyectos.</p>
 
 
 
@@ -240,8 +248,8 @@ window.onload = function() {
 					 class="nanospace-footer-widgets-bar nanospace-footer-section nanospace-section ">
 					<div class="nanospace-footer-widgets-bar-inner nanospace-section-inner">
 						<div class="nanospace-wrapper">
-
-
+							
+					
 				</div>
 			</div>
 		</div>
@@ -251,8 +259,13 @@ window.onload = function() {
 						<div class="nanospace-wrapper">
 							<div class="nanospace-footer-bottom-bar-row nanospace-footer-row">
 																	<div class="nanospace-footer-bottom-bar-left nanospace-footer-bottom-bar-column"></div>
-																	<div class="nanospace-footer-bottom-bar-center nanospace-footer-bottom-bar-column">						<div class="nanospace-footer-html-1 nanospace-bar-html-item">
-							<div><p><a rel="cc:attributionURL" href="http://cas.peiphy.xyz">El blog de CAS de Pol Roca </a>está registrado como <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+																	<div class="nanospace-footer-bottom-bar-center nanospace-footer-bottom-bar-column">						<div class="nanospace-footer-html-3 nanospace-bar-html-item">
+							<div></div>
+						</div>
+												<div class="nanospace-footer-html-1 nanospace-bar-html-item">
+							<div><img src="https://cdn.discordapp.com/attachments/855704728846860288/895691981370576926/code.png"> con <img src="https://media.discordapp.net/attachments/855704728846860288/895692500516368445/heart.png"> via <a href="https://github.com"> <img src="https://cdn.discordapp.com/attachments/855704728846860288/895692693768929301/GH.png"></a>
+
+<p><a rel="cc:attributionURL" href="http://cas.peiphy.xyz">El blog de CAS de Pol Roca </a>está registrado como <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
 <br>
 Funciona gracias a <a rel="Powered By" href="https://wordpress.org">Wordpress (diseño)</a>, <a rel="Theme By" href="https://www.github.com">GitHub (<i>host</i>)</a>,<br><a rel="Hosted by" href="https://labinator.com/wordpress-marketplace/themes/nanospace/">Labinator (tema)</a>, <a rel="Defended by" href="https://www.cloudflare.com">CloudFlare (<i>networking</i>)</a> y varios proveedores de plugins de WP y CF. </p>
 
@@ -264,7 +277,7 @@ Funciona gracias a <a rel="Powered By" href="https://wordpress.org">Wordpress (d
 				</div>
 			</div>
 		</div>
-
+		
 
 </footer>
 
@@ -276,12 +289,12 @@ Funciona gracias a <a rel="Powered By" href="https://wordpress.org">Wordpress (d
 var $nanospaceBreakpoints = {"s":"448","m":"672","l":"880","xl":"1280","xxl":"1600","xxxl":"1920","xxxxl":"2560"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/themes/nanospace/assets/js/skip-link-focus-fix.js?ver=1.2.1' id='nanospace-skip-link-focus-fix-js'></script>
-<script type='text/javascript' src='wp-content/themes/nanospace/assets/js/scripts-navigation.js?ver=1.2.1' id='nanospace-scripts-js'></script>
-<script type='text/javascript' src='wp-content/themes/nanospace/assets/js/jquery.scroll-watch.js?ver=1.2.1' id='jquery-scroll-watch-js'></script>
-<script type='text/javascript' src='wp-content/themes/nanospace/assets/js/jquery.fitvids.js?ver=1.2.1' id='jquery-fitvids-js'></script>
-<script type='text/javascript' src='wp-content/themes/nanospace/assets/js/scripts-global.js?ver=1.2.1' id='nanospace-scripts-global-js'></script>
-<script type='text/javascript' src='wp-content/themes/nanospace/assets/js/main.js?ver=1.2.1' id='nanospace-scripts-main-header-js-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/themes/nanospace/assets/js/skip-link-focus-fix.js?ver=1.2.1' id='nanospace-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/themes/nanospace/assets/js/scripts-navigation.js?ver=1.2.1' id='nanospace-scripts-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/themes/nanospace/assets/js/jquery.scroll-watch.js?ver=1.2.1' id='jquery-scroll-watch-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/themes/nanospace/assets/js/jquery.fitvids.js?ver=1.2.1' id='jquery-fitvids-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/themes/nanospace/assets/js/scripts-global.js?ver=1.2.1' id='nanospace-scripts-global-js'></script>
+<script type='text/javascript' src='http://192.168.1.111/wp-content/themes/nanospace/assets/js/main.js?ver=1.2.1' id='nanospace-scripts-main-header-js-js'></script>
 
 </body>
 
